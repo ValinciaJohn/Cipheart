@@ -1,4 +1,5 @@
 **Cipheart: Secure Heart, Smart Start – Predicting with Privacy**
+
 Cipheart is an innovative Streamlit application designed to classify heart disease risk based on the well-known UCI Heart Disease dataset. The app allows users to select between **Logistic Regression** and **Naive Bayes** machine learning models for heart disease prediction. To ensure the privacy and security of sensitive health data, Cipheart integrates **CKKS homomorphic encryption**, which allows computations to be performed on encrypted data without compromising privacy. 
 This combination of machine learning and encryption empowers users to make informed health decisions securely. With a user-friendly interface, Cipheart caters to both technical and non-technical users, offering a seamless experience in predicting heart disease risk while maintaining high standards of data security and privacy.
 
