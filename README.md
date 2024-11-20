@@ -20,7 +20,7 @@ Cipheart includes various visualizations to help users understand both the data 
 User Interactivity:
 The app is designed to be user-friendly and interactive. Users can upload a CSV file containing heart disease data using the File Uploader feature. They can select between Logistic Regression, Naive Bayes, or both models for prediction. Additionally, users have the option to enable encryption to ensure data privacy during prediction. The data preprocessing steps can be triggered manually, giving users control over cleaning, scaling, and outlier removal before proceeding to the modeling phase.
 
-Conclusion:
+Conclusion
 
 Cipheart combines the power of machine learning and homomorphic encryption to offer secure, accurate heart disease predictions. It's the smart choice for privacy-conscious health data analysis.
 
